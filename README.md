@@ -1,6 +1,6 @@
 # Sword-Fighting-Baseplate
 
-Bypasses the Anti Cheat.
+Bypasses the ingame anti cheat. [STOR.ANTI]
 
 Tested Exploits:
 * Synapse X
