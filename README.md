@@ -1,2 +1,6 @@
 # Sword-Fighting-Baseplate
-Scripts for Sword Fighting Baseplate on Roblox
+
+Bypasses the Anti Cheat.
+
+Tested Exploits:
+* Synapse X
