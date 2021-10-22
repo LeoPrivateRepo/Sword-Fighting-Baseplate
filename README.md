@@ -1,6 +1,7 @@
 # Sword-Fighting-Baseplate
 
 Bypasses the ingame anti cheat. [STOR.ANTI]
+Made by Sir Vou the Pro
 
 Tested Exploits:
 * Synapse X
